@@ -3,7 +3,7 @@
 - 👋 I'm Jacky Lee, studying in ECNU Software Engineer Institution.
 - 👀 My interest is software and coding.
 - 🌱 Skill: Major is Python/Java, a litte about javascript and c/c++
-- 📫 Email: <jackylee.work@outlook.com>
+- 📫 Email: <jieli.work@qq.com>
 
 ### About Coding
 
